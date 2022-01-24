@@ -1,4 +1,4 @@
-# Visualization-of-Information
+# Visualization of Information
 #### By: Zohar Karni & May Regev & Adi Bulgaro
 The repository contains 5 files:
 1. PDF report
